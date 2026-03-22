@@ -58,12 +58,8 @@ Aerofit's market research team wants to identify the **characteristics of the ta
 ```
 aerofit-analytics/
 
- notebooks/
-    Aerofit_BC.ipynb          # Full analysis notebook
-
- outputs/
-    Aerofit_BC.pdf           # Exported Pdf report
-
+ Aerofit_BC.ipynb          # Full analysis notebook
+ 
  README.md
  
 ```
